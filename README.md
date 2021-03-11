@@ -227,6 +227,6 @@ The whole premise is that Electron provides your web application with a low-leve
 
 Electron comes with all the power of Node.JS so you can basically do anything Node can do in Electron. Now that you have learned all this, you can now convert your existing React projects into desktop applications or build cool desktop projects.
 
-You can find the full code for the tutorial [here]()
+You can find the full code for the tutorial [here](https://github.com/katungi/desktop-weather-app-demo)
 
 Happy Coding!
