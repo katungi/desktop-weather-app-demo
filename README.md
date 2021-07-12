@@ -11,4 +11,4 @@ Electron uses HTML/CSS and JavaScript traditionally. You can use HTML, CSS and v
 
 
 ### Where to find The article
-Hey Stranger, You can read the whole article at [Section Engineering blog](https://design.google/library/designing-and-learning-teachable-machine/): 
+Hey Stranger, You can read the whole article at [Section Engineering blog](https://www.section.io/engineering-education/desktop-application-with-react/): 
