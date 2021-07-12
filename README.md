@@ -102,7 +102,7 @@ The significant change is that you added the a custom html file to be launched. 
 Now you have electron installed, but  still have to make a few changes in the `package.json` to syncronize the browser and desktop builds. First, update the project's entry file. In your `package.json` file, add this before your scripts:
 
 ```json
-  "main" : "main": "public/electron.js",
+  "main": "public/electron.js",
 ```
 
 Next, install the following packages, `concurrent` and `wait-on`. These packages will listen to the app, and when it launches on the browser, it will launch as an electron app instead.
